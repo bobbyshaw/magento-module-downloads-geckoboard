@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule module/downloads/(.*) downloads.php?id=$1
