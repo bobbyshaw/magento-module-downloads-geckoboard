@@ -6,4 +6,10 @@ e.g.  BASE_URL/module/downloads/480
 
 * Author : Tom Robertshaw (<http://tomrobertshaw.net>)
 
+## Examples
+
+![Royal Mail Downloads](http://tomrobertshaw.net/magento_geckoboard/images/royalmail_downloads.png)
+
+![Ordershare Downloads](http://tomrobertshaw.net/magento_geckoboard/images/ordershare_downloads.png)
+
 
